@@ -1,3 +1,5 @@
+package com.webfunc
+
 import org.scalatest.funsuite.AnyFunSuite
 
 class MainSpec extends AnyFunSuite {
